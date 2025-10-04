@@ -4,8 +4,7 @@
   <b>Product Manager</b> | <b>Product Developer</b> | <b>Microservice Architect</b> | <b>AI Engineer</b>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Product+Manager+%26+Developer;Microservice+Architect+%26+AI+Engineer;Sui-chan+wa...+Kyou+mo+kawaii!!+☄️" />
+<p align="cen---mg src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=true&vCenter=true&width=500&lines=Sui-chan+waa+...+kyou+mo+kawaii!!;Riona+in+the+house!+brr+brrra!;Welcome+to+my+humble+abode!" />
 </p>
 
 ---
@@ -39,6 +38,42 @@
 - ⚡ Fun fact: I code better when listening to Hololive streams
 
 <br clear="right"/>
+
+---
+
+### 💭 Favorite Quotes
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/💝-Quote_1-FF69B4?style=for-the-badge" alt="Quote 1"/>
+        <br><br>
+        <i>"Lovers don't finally meet somewhere.<br>They're in each other all along."</i>
+        <br><br>
+        <b>– Rumi</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/⭐-Quote_2-FFD700?style=for-the-badge" alt="Quote 2"/>
+        <br><br>
+        <i>"Not smart enough to be a regular programmer,<br>but smart enough to be a vibe coder."</i>
+        <br><br>
+        <b>– Rayin Ailham</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/☄️-Quote_3-9370DB?style=for-the-badge" alt="Quote 3"/>
+        <br><br>
+        <i>"Sui-chan wa... Kyou mo kawaii!!"</i>
+        <br><br>
+        <b>– Every Hoshiyomi ever ☄️</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -172,6 +207,12 @@ const rayinailham = {
 </p>
 
 <p align="center">
+  <img src="./resources/otu_kairi/riona-cute.gif" width="300"/>
+  <br>
+  <i>Gif by otu_kairi - Thank you for the cute Riona animation! 🎬</i>
+</p>
+
+<p align="center">
   <a href="https://www.youtube.com/@HoshimachiSuisei" target="_blank">
     <img src="https://img.shields.io/badge/☄️_Hoshimachi_Suisei-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Suisei"/>
   </a>
@@ -187,14 +228,6 @@ const rayinailham = {
 <p align="center">
   <i>Go subscribe to them! They're amazing talents who deserve all the love! ☄️👑</i>
 </p>
-
----
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Coming soon... (when I'm not busy clipping Sui-chan's streams)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -244,10 +277,6 @@ const rayinailham = {
 </p>
 
 ---
-
-<p align="center">
-  <i>"Not smart enough to be a regular programmer, but smart enough to be a vibe coder." – Rayin Ailham</i>
-</p>
 
 <p align="center">
   ☄️ <i>Powered by Sui-chan's kawaiiness and Riona's energy</i> 👑🎤
