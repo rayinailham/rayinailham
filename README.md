@@ -117,14 +117,6 @@
 
 ---
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/rayinailham/rayinailham/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 ### 📘 Featured Projects
 
 <p align="center">
@@ -174,6 +166,12 @@ const rayinailham = {
 </p>
 
 <p align="center">
+  <img src="./resources/Hikageforillust/Riona-cute.jpg" width="300"/>
+  <br>
+  <i>Art by Hikageforillust - Thank you for the amazing Riona art! 🎨</i>
+</p>
+
+<p align="center">
   <a href="https://www.youtube.com/@HoshimachiSuisei" target="_blank">
     <img src="https://img.shields.io/badge/☄️_Hoshimachi_Suisei-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Suisei"/>
   </a>
@@ -200,10 +198,12 @@ const rayinailham = {
 
 ---
 
-### 💡 Random Dev Quote
+### � Favorite Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <i>"Lovers don't finally meet somewhere. They're in each other all along."</i>
+  <br>
+  <b>– Rumi</b>
 </p>
 
 ---
