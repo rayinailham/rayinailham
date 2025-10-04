@@ -129,10 +129,8 @@ Fun fact: I code better when listening to Hololive streams.
 </p>
 
 <p align="center">
-  <img src="./resources/Hikageforillust/Riona-cute.jpg" height="300"/>
-  <img src="./resources/otu_kairi/riona-cute.gif" height="300"/>
-  <br>
-  <i>Art by Hikageforillust - Gif by otu_kairi 🎨</i>
+  <img src="./resources/riona kawaii.gif" height="300"/>
+  <img src="./resources/riona kawaii2.gif" height="300"/>
 </p>
 
 <p align="center">
