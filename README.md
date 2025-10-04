@@ -5,11 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0066FF&center=true&vCenter=true&width=500&lines=Sui-chan+wa...+kyou+mo+kawaii!!" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Riona+in+the+house!+brr+brrra!" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0066FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+ptuih!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0066FF&center=true&vCenter=true&width=500&lines=Sui-chan+wa...+kyou+mo+kawaii!!;Riona+in+the+house!+brr+brrra!;Welcome+to+my+humble+abode!" />
 </p>
 
 <p align="center">
