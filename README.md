@@ -112,10 +112,11 @@ Fun fact: I code better when listening to Hololive streams.
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🏥 **[Anevia Backend](https://github.com/rayinailham/anevia-backend)** | AI-powered eye conjunctiva scanning system for anemia detection with Firebase auth and chat assistant | Node.js, Hapi.js, PostgreSQL, Firebase, Google Gemini |
-| 🤖 **[Micro Chatbot](https://github.com/rayinailham/micro-chatbot)** | Production-ready microservice for AI-powered chatbot applications with conversation management | Bun, ElysiaJS, TypeScript, PostgreSQL, OpenRouter API |
-| � **[Micro Auth](https://github.com/rayinailham/micro-auth)** | Microservice authentication boilerplate with Firebase integration and comprehensive security features | Bun, Hono, TypeScript, Firebase Auth, Zod |
-| 🎙️ **[AureaVoice Backend](https://github.com/rayinailham/av-backend)** | Voice accent analysis API for English learners to identify and improve US accent pronunciation | Python, FastAPI, SpeechBrain, PyTorch, Torchaudio |
+| **[Anevia Backend](https://github.com/Anevia-Capstone/anevia-backend)** | AI-powered eye conjunctiva scanning system for anemia detection with Firebase auth and chat assistant | Node.js, Hapi.js, PostgreSQL, Firebase, Google Gemini |
+| 🔬 **[Anevia Backend Model](https://github.com/Anevia-Capstone/anevia-backend-model)** | Deep learning API for anemia detection from conjunctiva images with dual AI models for segmentation and classification | Python, FastAPI, TensorFlow, YOLOv8, OpenCV |
+| **[Micro Chatbot](https://github.com/rayinailham/micro-chatbot)** | Production-ready microservice for AI-powered chatbot applications with conversation management | Bun, ElysiaJS, TypeScript, PostgreSQL, OpenRouter API |
+| **[Micro Auth](https://github.com/rayinailham/micro-auth)** | Microservice authentication boilerplate with Firebase integration and comprehensive security features | Bun, Hono, TypeScript, Firebase Auth, Zod |
+| **[AureaVoice Backend](https://github.com/rayinailham/av-backend)** | Voice accent analysis API for English learners to identify and improve US accent pronunciation | Python, FastAPI, SpeechBrain, PyTorch, Torchaudio |
 
 ---
 
@@ -128,8 +129,8 @@ Fun fact: I code better when listening to Hololive streams.
 </p>
 
 <p align="center">
-  <img src="./resources/Hikageforillust/Riona-cute.jpg" width="300"/>
-  <img src="./resources/otu_kairi/riona-cute.gif" width="300"/>
+  <img src="./resources/Hikageforillust/Riona-cute.jpg" height="300"/>
+  <img src="./resources/otu_kairi/riona-cute.gif" height="300"/>
   <br>
   <i>Art by Hikageforillust - Gif by otu_kairi 🎨</i>
 </p>
