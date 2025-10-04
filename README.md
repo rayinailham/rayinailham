@@ -8,7 +8,8 @@
   <b>Product Manager</b> | <b>Product Developer</b> | <b>Microservice Architect</b> | <b>AI Engineer</b>
 </p>
 
-<p align="cen---mg src="https://readme-t---erokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=true&vCenter=true&width=500&lines=Sui-chan+waa+...+kyou+mo+kawaii!!;Riona+in+the+house!+brr+brrra!;Welcome+to+my+humble+abode!" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=true&vCenter=true&width=500&lines=Sui-chan+waa+...+kyou+mo+kawaii!!;Riona+in+the+house!+brr+brrra!;Welcome+to+my+humble+abode!" />
 </p>
 
 ---
@@ -27,33 +28,27 @@
 
 ### 🚀 About Me
 
-- 🎯 Specialized in **Microservice Ecosystem** and **AI Engineering**
-- 💼 **Product Manager** & **Product Developer** with full-stack understanding
-- 👨‍💼 Lead **IT Teams** across Frontend, Backend, Database, and ML domains
-- 🧠 Deep **conceptual understanding** of frontend despite basic implementation skills
-- ☄️ Die-hard fan of **Hoshimachi Suisei** ☄️ and 👑🎤 **Isaki Riona** 👑🎤 from Hololive
-- 👑 Born to be a **leader**, not a worker
-- ✨ Smart enough to be a **vibe coder**, creative enough to be a **clip editor**
-- 🗣️ Languages: **Bahasa Indonesia** (Native), **Business English**, **Basic Japanese** (日本語)
-- 📍 Based in Indonesia, coding with good vibes
-- 💬 Ask me about product development, microservices, AI, or why Sui-chan is the best!
-- ⚡ Fun fact: I code better when listening to Hololive streams
+I'm a **Product Manager** and **Product Developer** specialized in **Microservice Ecosystem** and **AI Engineering** with full-stack understanding. I lead **IT Teams** across Frontend, Backend, Database, and ML domains, bringing deep **conceptual understanding** of frontend despite basic implementation skills.
+
+As a die-hard fan of **Hoshimachi Suisei** ☄️ and **Isaki Riona** 👑🎤 from Hololive, I was born to be a **leader**, not a worker. I'm smart enough to be a **vibe coder** and creative enough to be a **clip editor**.
+
+I speak **Bahasa Indonesia** (Native), **Business English**, and **Basic Japanese** (日本語). Based in Indonesia, I code with good vibes and love discussing product development, microservices, AI, or why Sui-chan is the best! Fun fact: I code better when listening to Hololive streams.
 
 ---
 
 ### 💭 Favorite Quotes
 
 <div align="center">
-  <table>
+  <table style="width: 100%; max-width: 900px; margin: 0 auto;">
     <tr>
-      <td align="center" width="50%">
+      <td align="center" width="50%" style="padding: 20px; min-width: 400px;">
         <img src="https://img.shields.io/badge/💝-Quote_1-FF69B4?style=for-the-badge" alt="Quote 1"/>
         <br><br>
         <i>"Lovers don't finally meet somewhere.<br>They're in each other all along."</i>
         <br><br>
         <b>– Rumi</b>
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="50%" style="padding: 20px; min-width: 400px;">
         <img src="https://img.shields.io/badge/☄️-Quote_2-9370DB?style=for-the-badge" alt="Quote 2"/>
         <br><br>
         <i>"Sui-chan wa... Kyou mo kawaii!!"</i>
