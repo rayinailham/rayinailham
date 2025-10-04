@@ -144,6 +144,7 @@ Fun fact: I code better when listening to Hololive streams.
 
 <p align="center">
   <b>☄️ Sui-chan wa... Kyou mo kawaii!! ☄️</b>
+  <br>
   <b>☄️ Riona in the house! brr brrrra! 👑🎤</b>
 </p>
 
