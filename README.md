@@ -30,7 +30,7 @@
 
 I'm a **Product Manager** and **Product Developer** specialized in **Microservice Ecosystem** and **AI Engineering** with full-stack understanding. I lead **IT Teams** across Frontend, Backend, Database, and ML domains, bringing deep **conceptual understanding** of system implementation across all fields.
 
-As a die-hard fan of **Hoshimachi Suisei** ☄️ and **Isaki Riona** 👑🎤 from Hololive, I was born to be a **leader**, not a worker.
+A loyal fan of **Hoshimachi Suisei** ☄️ and **Isaki Riona** 👑🎤 from Hololive.
 
 I speak **Bahasa Indonesia** (Native), **Business English**, and **Basic Japanese** (日本語). Based in Indonesia, I vibe code cleanly with deep understanding and love discussing product development, microservices, AI, or why Sui-chan is the best! 
 
