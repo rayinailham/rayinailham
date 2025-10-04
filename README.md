@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./resources/suiseibannergif.gif" alt="Suisei Banner" width="100%" style="max-width: 800px;"/>
+</p>
+
 <h1 align="center">Hi there, I'm Rayina Ilham 👋</h1>
 
 <p align="center">
@@ -17,13 +21,11 @@
 
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frayinailham&labelColor=%23f5f5f5&countColor=%232ccce4" />
-  <img src="https://badges.pufler.dev/repos/rayinailham"/>
-  <img src="https://badges.pufler.dev/commits/monthly/rayinailham" />
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frayinailham&color=brightgreen" />
+  <img src="https://img.shields.io/github/commit-activity/m/rayinailham/rayinailham?label=commits&color=blue" />
 </p>
 
 ### 🚀 About Me
-
-<img align="right" alt="Suisei GIF" src="./resources/suisei-gif.gif" width="400"/>
 
 - 🎯 Specialized in **Microservice Ecosystem** and **AI Engineering**
 - 💼 **Product Manager** & **Product Developer** with full-stack understanding
@@ -37,8 +39,6 @@
 - 💬 Ask me about product development, microservices, AI, or why Sui-chan is the best!
 - ⚡ Fun fact: I code better when listening to Hololive streams
 
-<br clear="right"/>
-
 ---
 
 ### 💭 Favorite Quotes
@@ -46,17 +46,15 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" width="50%">
         <img src="https://img.shields.io/badge/💝-Quote_1-FF69B4?style=for-the-badge" alt="Quote 1"/>
         <br><br>
         <i>"Lovers don't finally meet somewhere.<br>They're in each other all along."</i>
         <br><br>
         <b>– Rumi</b>
       </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/☄️-Quote_3-9370DB?style=for-the-badge" alt="Quote 3"/>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/☄️-Quote_2-9370DB?style=for-the-badge" alt="Quote 2"/>
         <br><br>
         <i>"Sui-chan wa... Kyou mo kawaii!!"</i>
         <br><br>
