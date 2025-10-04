@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="./resources/suiseibannergif.gif" alt="Suisei Banner" width="100%" style="max-width: 800px;"/>
+  <img src="./resources/suiseibannergif.gif" alt="Suisei Banner" width="100%" style="max-height: 500px;"/>
 </p>
 
 ---
