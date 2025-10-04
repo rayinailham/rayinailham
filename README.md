@@ -158,25 +158,6 @@ Fun fact: I code better when listening to Hololive streams.
 
 ---
 
-### 📫 How to Reach Me
-
-<p align="center">
-  <a href="mailto:rayinailham9@gmail.com">
-    <img src="https://img.shields.io/badge/-rayinailham9@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rayinailham/">
-    <img src="https://img.shields.io/badge/-rayinailham-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/Rayiil_">
-    <img src="https://img.shields.io/badge/-@rayinailham-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/rayiil__">
-    <img src="https://img.shields.io/badge/-rayinailham-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rayinailham&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
