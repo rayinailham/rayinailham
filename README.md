@@ -145,11 +145,11 @@ Fun fact: I code better when listening to Hololive streams.
 <p align="center">
   <b>☄️ Sui-chan wa... Kyou mo kawaii!! ☄️</b>
   <br>
-  <b>☄️ Riona in the house! brr brrrra! 👑🎤</b>
+  <b>🎤👑 Riona in the house! brr brrrra! 👑🎤</b>
 </p>
 
 <p align="center">
-  <i>Go subscribe to them! They're amazing talents who deserve all the love! ☄️👑</i>
+  <i>Go subscribe to them! They're amazing talents who deserve all the love!</i>
 </p>
 
 ---
