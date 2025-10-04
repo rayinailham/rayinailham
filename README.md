@@ -112,10 +112,10 @@ Fun fact: I code better when listening to Hololive streams.
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🚀 **[Project Name 1](#)** | Brief description of your awesome project | React, Node.js, MongoDB |
-| 🎨 **[Project Name 2](#)** | Another cool project you've built | Python, Django, PostgreSQL |
-| 💡 **[Project Name 3](#)** | Something innovative and creative | Vue.js, Express, MySQL |
-| 🔧 **[Project Name 4](#)** | Yet another amazing project | Next.js, TypeScript, Tailwind |
+| 🏥 **[Anevia Backend](https://github.com/rayinailham/anevia-backend)** | AI-powered eye conjunctiva scanning system for anemia detection with Firebase auth and chat assistant | Node.js, Hapi.js, PostgreSQL, Firebase, Google Gemini |
+| 🤖 **[Micro Chatbot](https://github.com/rayinailham/micro-chatbot)** | Production-ready microservice for AI-powered chatbot applications with conversation management | Bun, ElysiaJS, TypeScript, PostgreSQL, OpenRouter API |
+| � **[Micro Auth](https://github.com/rayinailham/micro-auth)** | Microservice authentication boilerplate with Firebase integration and comprehensive security features | Bun, Hono, TypeScript, Firebase Auth, Zod |
+| 🎙️ **[AureaVoice Backend](https://github.com/rayinailham/av-backend)** | Voice accent analysis API for English learners to identify and improve US accent pronunciation | Python, FastAPI, SpeechBrain, PyTorch, Torchaudio |
 
 ---
 
@@ -129,14 +129,9 @@ Fun fact: I code better when listening to Hololive streams.
 
 <p align="center">
   <img src="./resources/Hikageforillust/Riona-cute.jpg" width="300"/>
-  <br>
-  <i>Art by Hikageforillust - Thank you for the amazing Riona art! 🎨</i>
-</p>
-
-<p align="center">
   <img src="./resources/otu_kairi/riona-cute.gif" width="300"/>
   <br>
-  <i>Gif by otu_kairi - Thank you for the cute Riona animation! 🎬</i>
+  <i>Art by Hikageforillust - Gif by otu_kairi 🎨</i>
 </p>
 
 <p align="center">
