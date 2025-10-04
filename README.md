@@ -5,11 +5,11 @@
 <h1 align="center">Hi there, I'm Rayina Ilham 👋</h1>
 
 <p align="center">
-  <---anager</b> | <b>Product Developer</b> | <b>Microservice Architect</b> | <b>AI Engineer</b>
+  <b>Product Developer</b> | <b>Microservice Architect</b> | <b>AI Engineer</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=true&vCenter=true&width=500&lines=Sui-chan+waa+...+kyou+mo+kawaii!!;Riona+in+the+house!+brr+brrra!;Welcome+to+my+humble+abode!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=true&vCenter=true&width=500&lines=Sui-chan+wa...+kyou+mo+kawaii!!;Riona+in+the+house!+brr+brrra!;Welcome+to+my+humble+abode!" />
 </p>
 
 ---
@@ -28,11 +28,13 @@
 
 ### 🚀 About Me
 
-I'm a **Product Manager** and **Product Developer** specialized in **Microservice Ecosystem** and **AI Engineering** with full-stack understanding. I lead **IT Teams** across Frontend, Backend, Database, and ML domains, bringing deep **conceptual understanding** of frontend despite basic implementation skills.
+I'm a **Product Manager** and **Product Developer** specialized in **Microservice Ecosystem** and **AI Engineering** with full-stack understanding. I lead **IT Teams** across Frontend, Backend, Database, and ML domains, bringing deep **conceptual understanding** of system implementation across all fields.
 
 As a die-hard fan of **Hoshimachi Suisei** ☄️ and **Isaki Riona** 👑🎤 from Hololive, I was born to be a **leader**, not a worker.
 
-I speak **Bahasa Indonesia** (Native), **Business English**, and **Basic Japanese** (日本語). Based in Indonesia, I vibe code cleanly with deep understanding and love discussing product development, microservices, AI, or why Sui-chan is the best! Fun fact: I code better when listening to Hololive streams.
+I speak **Bahasa Indonesia** (Native), **Business English**, and **Basic Japanese** (日本語). Based in Indonesia, I vibe code cleanly with deep understanding and love discussing product development, microservices, AI, or why Sui-chan is the best! 
+
+Fun fact: I code better when listening to Hololive streams.
 
 ---
 
