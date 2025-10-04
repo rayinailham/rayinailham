@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Rayina Ilham 👋</h1>
 
 <p align="center">
-  <b>Product Manager</b> | <b>Product Developer</b> | <b>Microservice Architect</b> | <b>AI Engineer</b>
+  <---anager</b> | <b>Product Developer</b> | <b>Microservice Architect</b> | <b>AI Engineer</b>
 </p>
 
 <p align="center">
@@ -30,34 +30,9 @@
 
 I'm a **Product Manager** and **Product Developer** specialized in **Microservice Ecosystem** and **AI Engineering** with full-stack understanding. I lead **IT Teams** across Frontend, Backend, Database, and ML domains, bringing deep **conceptual understanding** of frontend despite basic implementation skills.
 
-As a die-hard fan of **Hoshimachi Suisei** ☄️ and **Isaki Riona** 👑🎤 from Hololive, I was born to be a **leader**, not a worker. I'm smart enough to be a **vibe coder** and creative enough to be a **clip editor**.
+As a die-hard fan of **Hoshimachi Suisei** ☄️ and **Isaki Riona** 👑🎤 from Hololive, I was born to be a **leader**, not a worker.
 
-I speak **Bahasa Indonesia** (Native), **Business English**, and **Basic Japanese** (日本語). Based in Indonesia, I code with good vibes and love discussing product development, microservices, AI, or why Sui-chan is the best! Fun fact: I code better when listening to Hololive streams.
-
----
-
-### 💭 Favorite Quotes
-
-<div align="center">
-  <table style="width: 100%; max-width: 900px; margin: 0 auto;">
-    <tr>
-      <td align="center" width="50%" style="padding: 20px; min-width: 400px;">
-        <img src="https://img.shields.io/badge/💝-Quote_1-FF69B4?style=for-the-badge" alt="Quote 1"/>
-        <br><br>
-        <i>"Lovers don't finally meet somewhere.<br>They're in each other all along."</i>
-        <br><br>
-        <b>– Rumi</b>
-      </td>
-      <td align="center" width="50%" style="padding: 20px; min-width: 400px;">
-        <img src="https://img.shields.io/badge/☄️-Quote_2-9370DB?style=for-the-badge" alt="Quote 2"/>
-        <br><br>
-        <i>"Sui-chan wa... Kyou mo kawaii!!"</i>
-        <br><br>
-        <b>– Every Hoshiyomi ever ☄️</b>
-      </td>
-    </tr>
-  </table>
-</div>
+I speak **Bahasa Indonesia** (Native), **Business English**, and **Basic Japanese** (日本語). Based in Indonesia, I vibe code cleanly with deep understanding and love discussing product development, microservices, AI, or why Sui-chan is the best! Fun fact: I code better when listening to Hololive streams.
 
 ---
 
