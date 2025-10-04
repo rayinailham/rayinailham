@@ -1,21 +1,19 @@
+<h1 align="center">Hi there, I'm Rayina Ilham 👋</h1>
+
+<p align="center">
+  <b>Product Developer</b> | <b>Microservice Architect</b> | <b>AI Engineer</b> | <b>Hoshiyomi</b> | <b>Isaki Rengō</b> | <b>Clipper</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0066FF&center=true&vCenter=true&width=500&lines=Sui-chan+wa...+kyou+mo+kawaii!!" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Riona+in+the+house!+brr+brrra!" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0066FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+ptuih!" />
+</p>
+
 <p align="center">
   <img src="./resources/suiseibannergif.gif" alt="Suisei Banner" width="100%" style="max-width: 800px;"/>
-</p>
-
-<h1 align="center">Hi there, I'm R<p align="center">
-  <i>Go subscribe to them! They're amazing talents who deserve all the love! ☄️�</i>
-</p>
-
----
-
-### 📫 How to Reach Me1>
-
-<p align="center">
-  <b>Product Developer</b> | <b>Microservice Architect</b> | <b>AI Engineer</b> | <b>Hoshiyomi</b> | <b>Isaki Rengō</b>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=true&vCenter=true&width=500&lines=Sui-chan+wa...+kyou+mo+kawaii!!;Riona+in+the+house!+brr+brrra!;Welcome+to+my+humble+abode!" />
 </p>
 
 ---
@@ -41,21 +39,6 @@ A loyal fan of **Hoshimachi Suisei** ☄️ and **Isaki Riona** 👑🎤 from Ho
 I speak **Bahasa Indonesia** (Native), **Business English**, and **Basic Japanese** (日本語). Based in Indonesia, I vibe code cleanly with deep understanding and love discussing product development, microservices, AI, or why Sui-chan is the best! 
 
 Fun fact: I code better when listening to Hololive streams.
-
----
-
-### ☄️ What I Do
-
-- 💼 Manage products from **ideation to deployment** as Product Manager
-- 🚀 Develop **end-to-end products** with full-stack understanding
-- 👥 **Lead IT teams** across multiple disciplines (Frontend, Backend, DB, ML)
-- 🏗️ Architect and build **scalable microservice ecosystems**
-- 🤖 Develop **AI/ML solutions** and integrate them into production
-- 🔧 Design **distributed systems** with focus on reliability
-- 🐳 Deploy **containerized applications** with Docker & Kubernetes
-- 🎬 Create **Hololive clips** because talent deserves recognition
-- 💫 Write code with **good vibes** and positive energy
-- 🎵 Stream coding sessions while jamming to Sui-chan's songs
 
 ---
 
@@ -175,16 +158,6 @@ Fun fact: I code better when listening to Hololive streams.
 
 <p align="center">
   <i>Go subscribe to them! They're amazing talents who deserve all the love! ☄️👑</i>
-</p>
-
----
-
-### � Favorite Quote
-
-<p align="center">
-  <i>"Lovers don't finally meet somewhere. They're in each other all along."</i>
-  <br>
-  <b>– Rumi</b>
 </p>
 
 ---
