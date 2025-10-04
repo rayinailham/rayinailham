@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0066FF&center=true&vCenter=true&width=500&lines=Sui-chan+wa...+kyou+mo+kawaii!!;Riona+in+the+house!+brr+brrra!;Welcome+to+my+humble+abode!" />
 </p>
 
-<p align="center">
-  <img src="./resources/suiseibannergif.gif" alt="Suisei Banner" width="100%" style="max-height: 400px;"/>
-</p>
-
 ---
 
 <p align="center">
