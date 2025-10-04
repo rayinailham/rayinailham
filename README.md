@@ -55,25 +55,50 @@ Fun fact: I code better when listening to Hololive streams.
 
 ### 🧰 Technology Stack
 
+#### 💻 Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpeechBrain-FF6B6B?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+#### 🚀 Backend & Runtime
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white"/>
   <img src="https://img.shields.io/badge/Elysia-8B5CF6?style=for-the-badge&logo=elysia&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+#### 🗄️ Databases & Caching
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+#### 📨 Message Queues & Event Streaming
+<p align="center">
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+#### 🤖 AI/ML & Data Science
+<p align="center">
+  <img src="https://img.shields.io/badge/SpeechBrain-FF6B6B?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+#### 🐳 DevOps & Cloud
+<p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+</p>
+
+#### 🎬 Content Creation
+<p align="center">
   <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe_Premiere-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white"/>
   <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obs-studio&logoColor=white"/>
@@ -127,29 +152,6 @@ Fun fact: I code better when listening to Hololive streams.
 | 🎨 **[Project Name 2](#)** | Another cool project you've built | Python, Django, PostgreSQL |
 | 💡 **[Project Name 3](#)** | Something innovative and creative | Vue.js, Express, MySQL |
 | 🔧 **[Project Name 4](#)** | Yet another amazing project | Next.js, TypeScript, Tailwind |
-
----
-
-### 🎯 Current Focus
-
-```javascript
-const rayinailham = {
-    role: ["Product Manager", "Product Developer", "Tech Lead"],
-    expertise: {
-        strong: ["Backend", "Microservices", "AI/ML", "Database", "Architecture"],
-        conceptual: ["Frontend (deep understanding, basic implementation)"]
-    },
-    leadership: ["IT Team Management", "Cross-functional Teams", "Product Strategy"],
-    currentlyLearning: ["Advanced Product Management", "System Design at Scale"],
-    workingOn: ["Building scalable products", "AI integrations", "Hololive clip editing"],
-    lookingToCollaborate: ["Product Development", "Microservice Projects", "AI Solutions"],
-    languages: ["🇮🇩 Bahasa Indonesia", "🇬🇧 Business English", "🇯🇵 日本語 (Basic)"],
-    goals2025: ["Lead successful products", "Master Kubernetes", "Build AI SaaS"],
-    oshi: ["☄️ Hoshimachi Suisei", "👑🎤 Isaki Riona"],
-    motto: "Born to lead, code with vibes, develop products with passion",
-    funFact: "Can lead full-stack teams despite being 'only a bit' good at frontend 😄"
-};
-```
 
 ---
 
