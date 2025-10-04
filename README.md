@@ -120,13 +120,13 @@ Fun fact: I code better when listening to Hololive streams.
 
 <p align="center">
   <img src="./resources/Suichan kawaii.gif" width="250"/>
-  <img src="./resources/Suichan kawaii2.gif" width="250"/>
   <img src="./resources/Suichan kawaii3.gif" width="250"/>
+  <img src="./resources/Suichan kawaii2.gif" width="250"/>
 </p>
 
 <p align="center">
-  <img src="./resources/riona kawaii.gif" height="300"/>
   <img src="./resources/riona kawaii2.gif" height="300"/>
+  <img src="./resources/riona kawaii.gif" height="300"/>
 </p>
 
 <p align="center">
