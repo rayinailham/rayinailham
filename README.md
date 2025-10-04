@@ -4,7 +4,7 @@
   <b>Product Manager</b> | <b>Product Developer</b> | <b>Microservice Architect</b> | <b>AI Engineer</b>
 </p>
 
-<p align="cen---mg src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=true&vCenter=true&width=500&lines=Sui-chan+waa+...+kyou+mo+kawaii!!;Riona+in+the+house!+brr+brrra!;Welcome+to+my+humble+abode!" />
+<p align="cen---mg src="https://readme-t---erokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=true&vCenter=true&width=500&lines=Sui-chan+waa+...+kyou+mo+kawaii!!;Riona+in+the+house!+brr+brrra!;Welcome+to+my+humble+abode!" />
 </p>
 
 ---
@@ -52,15 +52,6 @@
         <i>"Lovers don't finally meet somewhere.<br>They're in each other all along."</i>
         <br><br>
         <b>– Rumi</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/⭐-Quote_2-FFD700?style=for-the-badge" alt="Quote 2"/>
-        <br><br>
-        <i>"Not smart enough to be a regular programmer,<br>but smart enough to be a vibe coder."</i>
-        <br><br>
-        <b>– Rayin Ailham</b>
       </td>
     </tr>
     <tr>
