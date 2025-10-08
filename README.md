@@ -73,31 +73,6 @@ Fun fact: I code better when listening to Hololive streams.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayinailham&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayinailham&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayinailham&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayinailham&theme=redical&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rayinailham&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 📘 Featured Projects
 
 <p align="center">
