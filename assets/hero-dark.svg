@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-labelledby="t d">
+  <title id="t">Rayina Ilham — Observatory Log</title>
+  <desc id="d">A night sky with a passing comet, a crown-shaped constellation and a small observatory dome. Text: Rayina Ilham. Go microservices, applied AI, speech and video pipelines.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset=".6" stop-color="#0b1430"/>
+      <stop offset="1" stop-color="#17255a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".5" cy="1.1" r=".75">
+      <stop offset="0" stop-color="#4f8ef7" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#4f8ef7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="tail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7cc4ff" stop-opacity="0"/>
+      <stop offset=".75" stop-color="#9fd4ff" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#e8f4ff" stop-opacity=".95"/>
+    </linearGradient>
+    <radialGradient id="head">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset=".35" stop-color="#cfe8ff"/>
+      <stop offset="1" stop-color="#4f8ef7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e8f0ff"/>
+      <stop offset=".55" stop-color="#9fc2ff"/>
+      <stop offset="1" stop-color="#f5d27a"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .s { fill: #dbe7ff; animation: tw 4s ease-in-out infinite; }
+    .s.b { animation-duration: 5.5s; animation-delay: -2s; }
+    .s.c { animation-duration: 3.2s; animation-delay: -1s; }
+    @keyframes tw { 0%, 100% { opacity: .9; } 50% { opacity: .25; } }
+    .crown line { stroke: #f5d27a; stroke-opacity: .45; stroke-width: 1.2; }
+    .crown circle { fill: #f5d27a; }
+    .comet { animation: fly 9s cubic-bezier(.35, 0, .65, 1) infinite; }
+    @keyframes fly {
+      0% { transform: translate(-160px, 18px); opacity: 0; }
+      6% { opacity: 1; }
+      52% { opacity: 1; }
+      60% { transform: translate(760px, 92px); opacity: 0; }
+      100% { transform: translate(760px, 92px); opacity: 0; }
+    }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .sans { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    @media (prefers-reduced-motion: reduce) { .s, .comet { animation: none; } .comet { opacity: 0; } }
+  </style>
+
+  <rect width="1200" height="360" fill="url(#sky)"/>
+  <rect width="1200" height="360" fill="url(#glow)"/>
+
+  <!-- starfield -->
+  <g>
+    <circle class="s" cx="42" cy="38" r="1.2"/><circle class="s b" cx="118" cy="122" r="1"/>
+    <circle class="s c" cx="190" cy="54" r="1.6"/><circle class="s" cx="262" cy="300" r="1"/>
+    <circle class="s b" cx="318" cy="24" r="1.1"/><circle class="s c" cx="372" cy="96" r=".9"/>
+    <circle class="s" cx="455" cy="44" r="1.4"/><circle class="s b" cx="520" cy="318" r="1"/>
+    <circle class="s c" cx="588" cy="30" r="1"/><circle class="s" cx="640" cy="104" r="1.3"/>
+    <circle class="s b" cx="702" cy="56" r=".9"/><circle class="s c" cx="760" cy="300" r="1.2"/>
+    <circle class="s" cx="812" cy="28" r="1"/><circle class="s b" cx="1010" cy="40" r="1.3"/>
+    <circle class="s c" cx="1150" cy="30" r="1"/><circle class="s" cx="1172" cy="160" r="1.2"/>
+    <circle class="s b" cx="890" cy="210" r=".9"/><circle class="s c" cx="70" cy="250" r="1.1"/>
+    <circle class="s" cx="160" cy="330" r=".9"/><circle class="s b" cx="690" cy="250" r="1"/>
+    <circle class="s c" cx="930" cy="300" r="1"/><circle class="s" cx="610" cy="200" r=".8"/>
+    <circle class="s b" cx="24" cy="160" r=".9"/><circle class="s c" cx="1110" cy="220" r=".9"/>
+  </g>
+
+  <!-- corona rionae: a crown constellation -->
+  <g class="crown">
+    <line x1="842" y1="150" x2="866" y2="98"/><line x1="866" y1="98" x2="896" y2="134"/>
+    <line x1="896" y1="134" x2="926" y2="82"/><line x1="926" y1="82" x2="956" y2="134"/>
+    <line x1="956" y1="134" x2="986" y2="98"/><line x1="986" y1="98" x2="1010" y2="150"/>
+    <line x1="842" y1="150" x2="1010" y2="150"/>
+    <circle class="s" cx="842" cy="150" r="2.4"/><circle class="s b" cx="866" cy="98" r="2.6"/>
+    <circle class="s c" cx="896" cy="134" r="2"/><circle class="s" cx="926" cy="82" r="3.4"/>
+    <circle class="s b" cx="956" cy="134" r="2"/><circle class="s c" cx="986" cy="98" r="2.6"/>
+    <circle class="s" cx="1010" cy="150" r="2.4"/>
+    <text class="mono" x="926" y="176" fill="#f5d27a" fill-opacity=".6" font-size="11" letter-spacing="3" text-anchor="middle">CORONA RIONAE</text>
+  </g>
+
+  <!-- comet: hoshimachi suisei -->
+  <g class="comet">
+    <g transform="rotate(6)">
+      <path d="M -150 0 L 0 -5 A 5 5 0 0 1 0 5 Z" fill="url(#tail)"/>
+      <circle r="9" fill="url(#head)"/>
+      <circle r="2.6" fill="#ffffff"/>
+    </g>
+  </g>
+
+  <!-- observatory hill + dome -->
+  <path d="M 900 360 C 960 318 1020 300 1080 298 C 1130 297 1170 306 1200 316 L 1200 360 Z" fill="#03050d"/>
+  <g fill="#03050d">
+    <path d="M 1052 300 L 1052 268 A 44 44 0 0 1 1140 268 L 1140 300 Z"/>
+    <rect x="1088" y="222" width="14" height="10" transform="rotate(-38 1095 227)"/>
+    <rect x="1078" y="214" width="62" height="12" rx="3" transform="rotate(-38 1096 252)"/>
+  </g>
+  <path d="M 1092 226 L 1100 226 L 1100 266 L 1092 266 Z" fill="#f5d27a" fill-opacity=".55"/>
+
+  <!-- copy -->
+  <text class="mono" x="72" y="118" fill="#7f9bd6" font-size="15" letter-spacing="4">// OBSERVATORY LOG · INDONESIA · UTC+7</text>
+  <text class="sans" x="68" y="204" fill="url(#name)" font-size="86" font-weight="800" letter-spacing="-1">Rayina Ilham</text>
+  <text class="sans" x="72" y="252" fill="#c9d8f7" font-size="26" font-weight="500">Go microservices · applied AI · speech &amp; video pipelines</text>
+  <text class="mono" x="72" y="292" fill="#7f9bd6" font-size="16">&gt; systems that hold, tools that find the moment_</text>
+</svg>

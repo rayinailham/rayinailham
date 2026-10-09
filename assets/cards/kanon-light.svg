@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 270" width="600" height="270" role="img" aria-label="Kanon: an interviewer, not a quiz">
+<title>Kanon: an interviewer, not a quiz</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f3f6fd"/></linearGradient></defs>
+<style>.s0,.s1,.s2{animation:tw 4s ease-in-out infinite}.s1{animation-duration:5.5s;animation-delay:-2s}.s2{animation-duration:3.2s;animation-delay:-1s}@keyframes tw{0%,100%{opacity:.9}50%{opacity:.3}}@media (prefers-reduced-motion: reduce){.s0,.s1,.s2{animation:none}}</style>
+<rect x="1" y="1" width="598" height="268" rx="18" fill="url(#g)" stroke="#d5deef" stroke-width="2"/>
+<rect x="1" y="30" width="6" height="210" rx="3" fill="#7c3aed"/>
+<g stroke="#7c3aed" stroke-opacity=".35" stroke-width="1.4"><line x1="442" y1="172" x2="480" y2="173"/><line x1="480" y1="173" x2="505" y2="199"/><line x1="505" y1="199" x2="512" y2="187"/><line x1="512" y1="187" x2="538" y2="168"/></g><g fill="#7c3aed"><circle class="s0" cx="442" cy="172" r="2.5"/><circle class="s1" cx="480" cy="173" r="2.5"/><circle class="s2" cx="505" cy="199" r="2.5"/><circle class="s0" cx="512" cy="187" r="3.2"/><circle class="s1" cx="538" cy="168" r="3.2"/></g>
+<text x="44" y="84" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="#0f1d40">Kanon</text>
+<text x="46" y="128" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" fill="#55678f">an interviewer, not a quiz</text>
+<rect x="476" y="26" width="96" height="30" rx="15" fill="#8b9bbf" fill-opacity=".15" stroke="#8b9bbf" stroke-opacity=".6"/>
+<text x="524.0" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#8b9bbf" text-anchor="middle" letter-spacing="1">PRIVATE</text>
+<rect x="44" y="218" width="148" height="34" rx="8" fill="#e8eefa"/>
+<text x="118" y="241" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#24345f" text-anchor="middle">TypeScript</text>
+<rect x="202.0" y="218" width="124" height="34" rx="8" fill="#e8eefa"/>
+<text x="264" y="241" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#24345f" text-anchor="middle">RabbitMQ</text>
+<rect x="336.0" y="218" width="100" height="34" rx="8" fill="#e8eefa"/>
+<text x="386" y="241" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#24345f" text-anchor="middle">Gemini</text>
+</svg>

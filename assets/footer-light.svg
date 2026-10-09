@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-labelledby="t">
+  <title id="t">End of transmission. Thanks for stopping by the observatory.</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffeedd"/>
+      <stop offset="1" stop-color="#e6efff"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4f8ef7" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#2f5fc4" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#b7791f" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .s { fill: #7d93c4; animation: tw 4s ease-in-out infinite; }
+    .s.b { animation-duration: 5.5s; animation-delay: -2s; }
+    @keyframes tw { 0%, 100% { opacity: .9; } 50% { opacity: .2; } }
+    .scan { animation: scan 6s linear infinite; }
+    @keyframes scan { from { transform: translateX(-400px); } to { transform: translateX(1200px); } }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .sans { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    @media (prefers-reduced-motion: reduce) { .s, .scan { animation: none; } }
+  </style>
+  <rect width="1200" height="150" fill="url(#sky)"/>
+  <circle class="s" cx="80" cy="30" r="1.2"/><circle class="s b" cx="230" cy="110" r="1"/>
+  <circle class="s" cx="390" cy="40" r="1"/><circle class="s b" cx="820" cy="34" r="1.2"/>
+  <circle class="s" cx="960" cy="112" r="1"/><circle class="s b" cx="1120" cy="46" r="1.3"/>
+  <rect x="0" y="74" width="1200" height="1" fill="#2f5fc4" fill-opacity=".12"/>
+  <rect class="scan" x="0" y="74" width="400" height="1" fill="url(#line)"/>
+  <text class="mono" x="600" y="58" fill="#55678f" font-size="13" letter-spacing="6" text-anchor="middle">END OF TRANSMISSION</text>
+  <text class="sans" x="600" y="108" fill="#1f2b48" font-size="20" text-anchor="middle">thanks for stopping by the observatory · keep looking up</text>
+</svg>

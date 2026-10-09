@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 270" width="600" height="270" role="img" aria-label="Monopoli Nusantara: board game night, online">
+<title>Monopoli Nusantara: board game night, online</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1226"/><stop offset="1" stop-color="#111c3d"/></linearGradient></defs>
+<style>.s0,.s1,.s2{animation:tw 4s ease-in-out infinite}.s1{animation-duration:5.5s;animation-delay:-2s}.s2{animation-duration:3.2s;animation-delay:-1s}@keyframes tw{0%,100%{opacity:.9}50%{opacity:.3}}@media (prefers-reduced-motion: reduce){.s0,.s1,.s2{animation:none}}</style>
+<rect x="1" y="1" width="598" height="268" rx="18" fill="url(#g)" stroke="#24345f" stroke-width="2"/>
+<rect x="1" y="30" width="6" height="210" rx="3" fill="#f5c451"/>
+<g stroke="#f5c451" stroke-opacity=".35" stroke-width="1.4"><line x1="407" y1="157" x2="418" y2="200"/><line x1="418" y1="200" x2="475" y2="187"/><line x1="475" y1="187" x2="520" y2="150"/><line x1="520" y1="150" x2="537" y2="158"/></g><g fill="#f5c451"><circle class="s0" cx="407" cy="157" r="2"/><circle class="s1" cx="418" cy="200" r="2"/><circle class="s2" cx="475" cy="187" r="2.5"/><circle class="s0" cx="520" cy="150" r="3.2"/><circle class="s1" cx="537" cy="158" r="2.5"/></g>
+<text x="44" y="84" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="#eef3ff">Monopoli Nusantara</text>
+<text x="46" y="128" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" fill="#9fb0d6">board game night, online</text>
+<rect x="516" y="26" width="56" height="30" rx="15" fill="#38bdf8" fill-opacity=".15" stroke="#38bdf8" stroke-opacity=".6"/>
+<text x="544.0" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#38bdf8" text-anchor="middle" letter-spacing="1">MVP</text>
+<rect x="44" y="218" width="52" height="34" rx="8" fill="#18254a"/>
+<text x="70" y="241" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#c9d8f7" text-anchor="middle">Go</text>
+<rect x="106.0" y="218" width="136" height="34" rx="8" fill="#18254a"/>
+<text x="174" y="241" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#c9d8f7" text-anchor="middle">WebSocket</text>
+<rect x="252.0" y="218" width="88" height="34" rx="8" fill="#18254a"/>
+<text x="296" y="241" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#c9d8f7" text-anchor="middle">React</text>
+</svg>

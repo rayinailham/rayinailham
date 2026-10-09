@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="1200" height="190" role="img" aria-label="Beyond code: Founder: FutureGuide, backend · architecture · devops; Clipper: Hololive streams, After Effects · Premiere; Speaks: id · en · ja, native · business · learning">
+<title>Beyond code: Founder: FutureGuide, backend · architecture · devops; Clipper: Hololive streams, After Effects · Premiere; Speaks: id · en · ja, native · business · learning</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f3f6fd"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="188" rx="18" fill="url(#g)" stroke="#d5deef" stroke-width="2"/>
+<rect x="1" y="30" width="6" height="130" rx="3" fill="#2563eb"/>
+<rect x="44" y="28" width="360" height="134" rx="12" fill="#e8eefa"/>
+<text x="66" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" letter-spacing="3" fill="#2563eb">FOUNDER</text>
+<text x="66" y="106" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="800" fill="#0f1d40">FutureGuide</text>
+<text x="66" y="140" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#55678f">backend · architecture · devops</text>
+<rect x="422" y="28" width="360" height="134" rx="12" fill="#e8eefa"/>
+<text x="444" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" letter-spacing="3" fill="#b7791f">CLIPPER</text>
+<text x="444" y="106" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="800" fill="#0f1d40">Hololive streams</text>
+<text x="444" y="140" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#55678f">After Effects · Premiere</text>
+<rect x="800" y="28" width="360" height="134" rx="12" fill="#e8eefa"/>
+<text x="822" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" letter-spacing="3" fill="#7c3aed">SPEAKS</text>
+<text x="822" y="106" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="800" fill="#0f1d40">id · en · ja</text>
+<text x="822" y="140" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#55678f">native · business · learning</text>
+</svg>

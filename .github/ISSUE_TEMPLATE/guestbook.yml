@@ -1,0 +1,40 @@
+name: ✍️ Sign the guestbook
+description: Leave a note for Ray, Sui-chan ☄️ or Riona 👑🎤. Old-web style.
+title: "✍️ Guestbook: "
+labels: ["guestbook"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Welcome to the observatory guestbook! Say hi, drop a project idea, or share your oshi.
+        Be kind. Entries are public.
+  - type: input
+    id: name
+    attributes:
+      label: Your name or handle
+      placeholder: "a passing Hoshiyomi"
+    validations:
+      required: true
+  - type: dropdown
+    id: to
+    attributes:
+      label: Who is this message for?
+      options:
+        - Ray
+        - Sui-chan ☄️
+        - Riona 👑🎤
+        - Everyone at the observatory
+    validations:
+      required: true
+  - type: textarea
+    id: message
+    attributes:
+      label: Your message
+      placeholder: "Sui-chan wa~ kyou mo kawaii!!"
+    validations:
+      required: true
+  - type: input
+    id: from
+    attributes:
+      label: Where did you come from? (optional)
+      placeholder: "a repo, a stream, a clip, a search..."

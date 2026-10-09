@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 270" width="600" height="270" role="img" aria-label="Clip-Autosubs: captions that bounce">
+<title>Clip-Autosubs: captions that bounce</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1226"/><stop offset="1" stop-color="#111c3d"/></linearGradient></defs>
+<style>.s0,.s1,.s2{animation:tw 4s ease-in-out infinite}.s1{animation-duration:5.5s;animation-delay:-2s}.s2{animation-duration:3.2s;animation-delay:-1s}@keyframes tw{0%,100%{opacity:.9}50%{opacity:.3}}@media (prefers-reduced-motion: reduce){.s0,.s1,.s2{animation:none}}</style>
+<rect x="1" y="1" width="598" height="268" rx="18" fill="url(#g)" stroke="#24345f" stroke-width="2"/>
+<rect x="1" y="30" width="6" height="210" rx="3" fill="#a78bfa"/>
+<g stroke="#a78bfa" stroke-opacity=".35" stroke-width="1.4"><line x1="391" y1="173" x2="395" y2="175"/><line x1="395" y1="175" x2="436" y2="165"/><line x1="436" y1="165" x2="446" y2="191"/><line x1="446" y1="191" x2="484" y2="165"/></g><g fill="#a78bfa"><circle class="s0" cx="391" cy="173" r="2"/><circle class="s1" cx="395" cy="175" r="2.5"/><circle class="s2" cx="436" cy="165" r="2.5"/><circle class="s0" cx="446" cy="191" r="2"/><circle class="s1" cx="484" cy="165" r="2"/></g>
+<text x="44" y="84" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="#eef3ff">Clip-Autosubs</text>
+<text x="46" y="128" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" fill="#9fb0d6">captions that bounce</text>
+<rect x="44" y="218" width="124" height="34" rx="8" fill="#18254a"/>
+<text x="106" y="241" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#c9d8f7" text-anchor="middle">WhisperX</text>
+<rect x="178.0" y="218" width="100" height="34" rx="8" fill="#18254a"/>
+<text x="228" y="241" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#c9d8f7" text-anchor="middle">FFmpeg</text>
+<rect x="288.0" y="218" width="76" height="34" rx="8" fill="#18254a"/>
+<text x="326" y="241" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#c9d8f7" text-anchor="middle">CUDA</text>
+</svg>
